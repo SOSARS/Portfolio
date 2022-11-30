@@ -4,7 +4,7 @@ Simphiwe Motsoasele,
 email: sfsosars@gmail.com
 linkedin: https://www.linkedin.com/in/simphiwe-motsoasele-b837a4230
 
-aspiring software developer with a keen interest in Data Science. Learning is a big passion of
+Aspiring software developer with a keen interest in Data Science. Learning is a big passion of
 mine and that has been supplemented by my affection for reading non-fiction books. At the time of writing this, I am
 a second year student in the process of acquiring my bachelors in Information Systems.
 I have also taken a 6-month bootcamp that has introduced me to the Data Science concepts I am now fond of. I must admit,
@@ -20,10 +20,15 @@ developing an android that is powered by artifical intelligence. A feat that wil
 Skills & Competencies:
 
 > Python
+
 > Java
+
 > HTML & CSS
+
 > Oracle SQL & MySQL
+
 > PL/SQL
+
 > JavaScript
 
 Recent Projects:
