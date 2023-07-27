@@ -39,4 +39,4 @@ and CSS code. Of which acts as a CV of mine in the form of a website.
 
 Sentiment Analysis:
 A python programme written by using the Tensorflow API, Keras, to build a Recurrent Neural Network that classifies Amazon book
-reviews as either positive or negative. One of my personal favourites! The programme can be found in my repository.
+reviews as either positive or negative. One of my personal favourites! The code can be found in my repository.
