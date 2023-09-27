@@ -1,7 +1,7 @@
 # Portfolio
 
 Simphiwe Motsoasele, 
-email: sfsosars@gmail.com
+email: reamots033@gmail.com
 linkedin: https://www.linkedin.com/in/simphiwe-motsoasele-b837a4230
 
 Aspiring software developer with a keen interest in Data Science. Learning is a big passion of
